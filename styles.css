@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: lime;
+  font-family: Lucida Console;
+  margin: 0;
+}
+hr {
+background-color: lime;
+height: 1px; 
+border: 0; 
+}
+blink, .blink-css { 
+animation: blink 1s step-end infinite; 
+}
+@keyframes blink {
+  67% { opacity: 0 }
+}
+a {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: black;
+  font-weight: bold;
+}
+table, th, td {
+  border: 1px solid;
+  color: lime;
+  text-align: left;
+  margin: 0;
+}
