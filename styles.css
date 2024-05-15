@@ -1,6 +1,7 @@
 body {
   background-color: black;
   color: lime;
+  line-height: 1.6;
   font-family: Lucida Console;
   margin: 0;
 }
