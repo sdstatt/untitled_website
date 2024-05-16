@@ -1,5 +1,5 @@
 <img src="assets/images/untitled_website_logo.png"></img>
-# "Untitled Website"
+## <i>"Untitled Website"</i>
 An updative "unblocked" games archive for people with very restrictive internet access.
 
 <a href="https://sdstatt.github.io/untitled_website/">Click here to view website</a>
