@@ -32,8 +32,8 @@ Delete the folder, Delete the associated game data folder in your Documents fold
 - *How can I install game mods?*
 If your administrators haven't blocked the ModDB or Gamebanana website, Go to one of the websites, Search up your game(s), and find your mod(s). If it's blocked, Have good luck on finding a unblocked game mods site.
 - *How can I not get caught?*
-Here are the 3 ways of not getting caught while playing games:
 
+Here are the 3 ways of not getting caught while playing games:
 1. *Creating a Seperate Desktop* 
 Alt+Win, Create a seperate desktop, and drag your game window into there.
 2. *Minimizing your Game Window*
