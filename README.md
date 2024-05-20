@@ -2,10 +2,8 @@
 ## <i>"Untitled Website"</i>
 An updative "unblocked" games archive for people with very restrictive internet access.
 
-<a href="https://sdstatt.github.io/untitled_website/">Click here to view website</a>
-
 ## Links
-No links currently :/
+<a href="https://sdstatt.github.io/untitled_website/">Click here to view the website</a>
 
 ## Installation for .RAR files
 1. Go to the Repository Webpage,
