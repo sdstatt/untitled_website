@@ -33,10 +33,12 @@ Delete the folder, Delete the associated game data folder in your Documents fold
 If your administrators haven't blocked the ModDB or Gamebanana website, Go to one of the websites, Search up your game(s), and find your mod(s). If it's blocked, Have good luck on finding a unblocked game mods site.
 - *How can I not get caught?*
 Here are the 3 ways of not getting caught while playing games:
+
 1. *Creating a Seperate Desktop* 
 Alt+Win, Create a seperate desktop, and drag your game window into there.
 2. *Minimizing your Game Window*
 On your window, Press the "_" Button.
 3. *Switching tabs*
 Switch to your browser tab.
+
 If you follow these I can assure you that you will be safe as possible. Make sure when a teacher isn't nearby so that you can be more safe.
