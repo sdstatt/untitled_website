@@ -24,13 +24,21 @@ No links currently :/
 
 ## FAQ
 - *Are you associated with Bradnails?*
+
 No, but I was inspired to do the whole unblocked games repository from them.
+
 - *How do I install my games?*
+
 Refer to the "Installation for .RAR files" section of this README.md file.
+
 - *How do I uninstall my games?*
+
 Delete the folder, Delete the associated game data folder in your Documents folder, and Clear your Recycle bin.
+
 - *How can I install game mods?*
+
 If your administrators haven't blocked the ModDB or Gamebanana website, Go to one of the websites, Search up your game(s), and find your mod(s). If it's blocked, Have good luck on finding a unblocked game mods site.
+
 - *How can I not get caught?*
 
 Here are the 3 ways of not getting caught while playing games:
