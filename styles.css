@@ -37,7 +37,7 @@ table, th, td {
   outline: 2px solid green;
 }
 ::-webkit-scrollbar-thumb {
-  background: green;
+  background: lime;
 }
 ::-webkit-scrollbar-thumb:hover {
   background: green;
