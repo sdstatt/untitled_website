@@ -4,16 +4,15 @@ body {
   line-height: 0.9;
   font-family: Lucida Console;
   margin: 0;
-  overflow-y: hidden;
   overflow-x: hidden;
 }
 hr {
-background-color: lime;
-height: 1px; 
-border: 0; 
+  background-color: lime;
+  height: 1px; 
+  border: 0; 
 }
 blink, .blink-css { 
-animation: blink 1s step-end infinite; 
+  animation: blink 1s step-end infinite; 
 }
 @keyframes blink {
   67% { opacity: 0 }
