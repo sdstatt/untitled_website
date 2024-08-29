@@ -40,5 +40,5 @@ table, th, td {
   background: green;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: darkolivegreen;
+  background: green;
 }
