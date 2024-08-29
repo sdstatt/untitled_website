@@ -19,8 +19,7 @@ blink, .blink-css {
 }
 a {
   color: white;
-  text-decoration: underline;
-  text-decoration-color: black;
+  text-decoration: none;
   font-weight: bold;
 }
 table {
@@ -31,10 +30,10 @@ table {
   border-collapse: collapse;
 }
 tr:nth-child(even) {
-  background-color: green;
+  background-color: #003300;
 }
 tr:nth-child(odd) {
-  background-color: darkgreen;
+  background-color: #000000;
 }
 ::-webkit-scrollbar {
   width: 10px;
