@@ -1,5 +1,5 @@
 <pre>
-<small>
+<small style="color: lime; line-height: 0.9; font-family: Lucida Console; font-size: 14px;">
 
                    __              __       ___                __                                      __                        __              
                   /\ \__    __    /\ \__   /\_ \              /\ \                                    /\ \                __    /\ \__           
