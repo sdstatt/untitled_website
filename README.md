@@ -56,3 +56,6 @@ Here are the 3 ways of not getting caught while playing games:
 3. *Switching tabs:* Switch to your browser tab.
 
 If you follow these I can assure you that you will be safe as possible. Make sure when a teacher isn't nearby so that you can be more safe.
+
+- *Why does the website look like the Matrix?*
+What if I told you..
