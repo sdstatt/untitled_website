@@ -29,3 +29,16 @@ table, th, td {
   text-align: left;
   margin: 0;
 }
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+  outline: 2px solid green;
+}
+::-webkit-scrollbar-thumb {
+  background: green;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: darkolivegreen;
+}
