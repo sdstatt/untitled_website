@@ -25,6 +25,7 @@ body {
   color: lime;
   line-height: 0.9;
   font-family: Lucida Console;
+  padding: 2px;
   margin: 0;
   overflow-x: hidden;
 }
