@@ -11,7 +11,7 @@ body::after {
   background-size: auto;
   background-repeat: repeat;
   background-position: center;
-  opacity: 0.2;
+  opacity: 0.1;
   pointer-events: none;
   -webkit-animation: bg_blink .2s;
   -webkit-animation-iteration-count: infinite;
@@ -76,34 +76,34 @@ th, td {
 }
 @-webkit-keyframes bg_blink {
     0% {
-        opacity: 0.2;
+        opacity: 0.1;
     }
     50% {
-        opacity: 0.2;
+        opacity: 0.1;
     }
     100% {
-        opacity: 0.25;
+        opacity: 0.15;
     }
 }
 @-moz-keyframes bg_blink {
     0% {
-        opacity: 0.2;
+        opacity: 0.1;
     }
     50% {
-        opacity: 0.2;
+        opacity: 0.1;
     }
     100% {
-        opacity: 0.25;
+        opacity: 0.15;
     }
 }
 @-o-keyframes bg_blink {
     0% {
-        opacity: 0.2;
+        opacity: 0.1;
     }
     50% {
-        opacity: 0.2;
+        opacity: 0.1;
     }
     100% {
-        opacity: 0.25;
+        opacity: 0.15;
     }
 }
