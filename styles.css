@@ -13,11 +13,11 @@ body::after {
   background-position: center;
   opacity: 0.2;
   pointer-events: none;
-  -webkit-animation: blink 1s;
+  -webkit-animation: bg_blink .5s;
   -webkit-animation-iteration-count: infinite;
-  -moz-animation: blink 1s;
+  -moz-animation: bg_blink .5s;
   -moz-animation-iteration-count: infinite;
-  -o-animation: blink 1s;
+  -o-animation: bg_blink .5s;
   -o-animation-iteration-count: infinite;
 }
 body {
