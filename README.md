@@ -1,4 +1,4 @@
-<img src="assets/images/logo.png">
+<img src="assets/images/logo.png" width="160" height="160">
 ## <i>"Untitled Website"</i>
 An updative "unblocked" games archive for people with very restrictive internet access.
 
