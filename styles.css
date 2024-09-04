@@ -74,6 +74,32 @@ th, td {
 ::-webkit-scrollbar-thumb:hover {
   background: green;
 }
+::-moz-scrollbar {
+  width: 10px;
+}
+::-moz-scrollbar-track {
+  background: #000;
+  outline: 2px solid green;
+}
+::-moz-scrollbar-thumb {
+  background: lime;
+}
+::-moz-scrollbar-thumb:hover {
+  background: green;
+}
+::-o-scrollbar {
+  width: 10px;
+}
+::-o-scrollbar-track {
+  background: #000;
+  outline: 2px solid green;
+}
+::-o-scrollbar-thumb {
+  background: lime;
+}
+::-o-scrollbar-thumb:hover {
+  background: green;
+}
 @-webkit-keyframes bg_blink {
     0% {
         opacity: 0.1;
