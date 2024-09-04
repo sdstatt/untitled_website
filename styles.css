@@ -11,8 +11,14 @@ body::after {
   background-size: auto;
   background-repeat: repeat;
   background-position: center;
-  opacity: 0.4;
+  opacity: 0.2;
   pointer-events: none;
+  -webkit-animation: blink 1s;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation: blink 1s;
+  -moz-animation-iteration-count: infinite;
+  -o-animation: blink 1s;
+  -o-animation-iteration-count: infinite;
 }
 body {
   background-color: black;
@@ -67,4 +73,37 @@ th, td {
 }
 ::-webkit-scrollbar-thumb:hover {
   background: green;
+}
+@-webkit-keyframes bg_blink {
+    0% {
+        opacity: 0.2;
+    }
+    50% {
+        opacity: 0.2;
+    }
+    100% {
+        opacity: 0.25;
+    }
+}
+@-moz-keyframes bg_blink {
+    0% {
+        opacity: 0.2;
+    }
+    50% {
+        opacity: 0.2;
+    }
+    100% {
+        opacity: 0.25;
+    }
+}
+@-o-keyframes bg_blink {
+    0% {
+        opacity: 0.2;
+    }
+    50% {
+        opacity: 0.2;
+    }
+    100% {
+        opacity: 0.25;
+    }
 }
