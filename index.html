@@ -52,7 +52,7 @@ pointer-events: none;}
 <h2>Welcome to the Untitled Website!</h2>
 <p>Untitled Website is an updative "unblocked" games archive for people with very restrictive internet access.</p>
 <p>Click the links below to go to one of the available web pages:</p>
-<p><span class="blink-css" style="color: white; background-color: lime;"><b>&gt;&gt;</b></span><a href="repository.html"> Repository</a></p>
+<p><span class="blink-css" style="color: white; background-color: lime;"><b>&gt;&gt;</b></span><a href="repository.html" onclick="document.getElementById('enter').play()"> Repository</a></p>
 </main>
 
 <hr>
@@ -67,6 +67,9 @@ Created by Sebastian Statt, 2022-2024.
 <audio controls autoplay hidden>
   <source src="assets/pcboot/PCBoot.mp3" type="audio/mp3">
 </audio>
+
+<audio id="enter" preload="auto" src="assets/sound/enter.mp3" crossorigin="anonymous"></audio>
+<audio id="back" preload="auto" src="assets/sound/back.mp3" crossorigin="anonymous"></audio>
 
 </body>
 </html>
