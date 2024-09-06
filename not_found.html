@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<p style="color: white;">Error! - [ <span class="blink-css" style="color: white; background-color: lime;"><b>&lt;&lt;</b></span><a onclick="history.back()" href="#"> Back to Last page</a> - <span class="blink-css" style="color: white; background-color: lime;"><b>&lt;&lt;</b></span><a href="index.html"> Home</a> ]</p>
+<p style="color: white;">Error! - [ <span class="blink-css" style="color: white; background-color: lime;"><b>&lt;&lt;</b></span><a onclick="history.back()" onclick="document.getElementById('back').play()" href="#"> Back to Last page</a> - <span class="blink-css" style="color: white; background-color: lime;"><b>&lt;&lt;</b></span><a href="index.html" onclick="document.getElementById('back').play()"> Home</a> ]</p>
 
 <hr>
 
@@ -42,5 +42,9 @@ UNTITLED WEBSITE
 Created by Sebastian Statt, 2022-2024.
 </pre>
 </footer>
+
+<audio id="enter" preload="auto" src="assets/sound/enter.mp3" crossorigin="anonymous"></audio>
+<audio id="back" preload="auto" src="assets/sound/back.mp3" crossorigin="anonymous"></audio>
+
 </body>
 </html>
