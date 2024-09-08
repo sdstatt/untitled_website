@@ -24,7 +24,7 @@ body {
   background-color: black;
   color: lime;
   line-height: 0.9;
-  font-family: Lucida Console;
+  font-family: 'pxplus_ibm_vga8regular', monospace;
   padding: 2px;
   margin: 0;
   overflow-x: hidden;
@@ -107,4 +107,13 @@ th, td {
     100% {
         opacity: 0.15;
     }
+}
+.cursor {
+  -webkit-animation: blink 0.25s step-start 0s infinite;
+  animation: blink 0.25s step-start 0s infinite;
+  border-bottom: 2px solid white;
+  display: inline-block;
+  height: 1em;
+  transform: translateY(2px);
+  width: 0.5em;
 }
