@@ -34,6 +34,14 @@ body {
   margin: 0;
   overflow-x: hidden;
 }
+p, h1, h2, h3, h4, h5, ul, li, td, th, {
+  color: lime;
+  line-height: 0.9;
+  font-family: DOSFont, monospace;
+  font-size: 20px;
+  padding: 2px;
+  margin: 0;
+}
 hr {
   background-color: lime;
   height: 1px; 
@@ -121,4 +129,11 @@ th, td {
   height: 1em;
   transform: translateY(2px);
   width: 0.5em;
+}
+.pagetitle {
+  color: lime; 
+  line-height: 0;
+  font-family: DOSFont, monospace;
+  font-size: 20px;
+  letter-spacing: -0.5px;
 }
