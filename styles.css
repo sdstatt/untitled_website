@@ -24,7 +24,8 @@ body {
   background-color: black;
   color: lime;
   line-height: 0.9;
-  font-family: 'assets/fonts/pxplus_ibm_vga8-webfont.woff', monospace;
+  font-family: 'assets/fonts/pxplus_ibm_vga8-webfont.ttf', monospace;
+  font-size: 20px;
   padding: 2px;
   margin: 0;
   overflow-x: hidden;
