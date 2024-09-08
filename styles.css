@@ -20,27 +20,15 @@ body::after {
   -o-animation: bg_blink .2s;
   -o-animation-iteration-count: infinite;
 }
-@font-face {
-  font-family: DOSFont;
-  src: url('assets/fonts/pxplus_ibm_vga8-webfont.ttf');
-} 
 body {
   background-color: black;
   color: lime;
   line-height: 0.9;
-  font-family: DOSFont, monospace;
+  font-family: "Lucida Console", "Courier New", monospace;
   font-size: 18px;
   padding: 2px;
   margin: 0;
   overflow-x: hidden;
-}
-p, h1, h2, h3, h4, h5, ul, li, td, th, {
-  color: lime;
-  line-height: 0.9;
-  font-family: DOSFont, monospace;
-  font-size: 20px;
-  padding: 2px;
-  margin: 0;
 }
 hr {
   background-color: lime;
@@ -129,11 +117,4 @@ th, td {
   height: 1em;
   transform: translateY(2px);
   width: 0.5em;
-}
-.pagetitle {
-  color: lime; 
-  line-height: 0;
-  font-family: DOSFont, monospace;
-  font-size: 20px;
-  letter-spacing: -0.5px;
 }
