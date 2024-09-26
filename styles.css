@@ -7,7 +7,7 @@ body::after {
   top: 0;
   left: 0;
   z-index: 100;
-  background-image: url('assets/images/rgb_normal.png');
+  background-image: url('assets/images/rgb_dotted.png');
   background-size: auto;
   background-repeat: repeat;
   background-position: center;
