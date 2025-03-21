@@ -4,7 +4,7 @@
 An updative "unblocked" games archive for people with very restrictive internet access.
 
 ## Github.io Blocked?
-If your administrator blocks the 'github.io' domain for "Security - Domain Sharing" or anything else, then download the whole project by clicking the "Code" button and then clicking "Download ZIP." If it's unblocked, don't download the project.
+If your administrator blocks the 'github.io' domain for "Security - Domain Sharing" or anything else, then go to the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">repo_list.MD<a> file
 
 ## Links
 <a href="https://sdstatt.github.io/untitled_website/">Click here to view the website</a>
