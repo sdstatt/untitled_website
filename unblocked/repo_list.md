@@ -8,3 +8,4 @@ An alternative UNBLOCKED list of stuff currently availble on the untitled websit
 - <a href="https://drive.google.com/file/d/1IqXGz9TopT2r-HYLawduUJ6Z-5akUqsH/view?usp=drive_link">Friday Night Funkin' (Pico Mix Update)</a> 
 (UPDATED!)
 - <a href="https://drive.google.com/file/d/1NSGJ96ajEUv6nB0IgZ0fvzGkZT3q8a3I/view?usp=sharing">Eaglercraft (Minecraft HTML5)</a>
+- <a href="https://drive.google.com/file/d/1Y83NFF_E_vwlTakSyK7w7g_Gx1WzySAC/view?usp=sharing">Super Mario Bros. Remastered</a>
