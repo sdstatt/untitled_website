@@ -1,7 +1,7 @@
 <img src="assets/images/logo.png" width="160" height="160">
 
 ## <i>"Untitled Website"</i>
-An updative "unblocked" games archive for people with very restrictive internet access.
+An "updative" unblocked games archive for people with very restrictive internet access.
 
 ## Github.io domain Blocked?
 If your administrator blocks the 'github.io' domain for "Security - Domain Sharing" or anything else, then go to the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md"> unblocked repo_list.MD file on the github repo<a>.
