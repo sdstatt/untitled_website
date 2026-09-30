@@ -3,21 +3,21 @@
 ## <i>"Untitled Website"</i>
 An updative "unblocked" games archive for people with very restrictive internet access.
 
-## Github.io Blocked?
-If your administrator blocks the 'github.io' domain for "Security - Domain Sharing" or anything else, then go to the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">repo_list.MD<a> file
+## Github.io domain Blocked?
+If your administrator blocks the 'github.io' domain for "Security - Domain Sharing" or anything else, then go to the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md"> unblocked repo_list.MD file on the github repo<a>.
 
 ## Links
 <a href="https://sdstatt.github.io/untitled_website/">Click here to view the website</a>
 
 ## Installation for .RAR files
-1. Go to the repository webpage (if blocked, check <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">repo_list.MD</a>).
-2. Find the paragraph that says, "To unzip .RAR files, click here to download the 7-ZipPortable.zip file."
-3. Download the .ZIP file from the "click here" link,
+1. Go to the repository webpage (if blocked, check the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">unblocked repo_list.MD file on the github repo</a>).
+2. Find the text that says, "To unzip .RAR files, click here to download the 7-ZipPortable.zip file."
+3. Click the "click here" link to download the .ZIP file.
 4. Unzip the 7-ZipPortable.zip file or open the 7-ZipPortable.zip file and drag the folder to your folder of choice.
-5. Now you've finally downloaded the 7-Zip program, download the games you like,
+5. Now that you've downloaded the 7-Zip program, download the games you like,
 6. Download "the game that you've picked".RAR file by clicking the "click to download" link,
 7. Right-click on "the game that you've picked".RAR file,
-8. Hover "Open with," > Click "Choose another app," > Scroll and click "More Apps," > and Click "Look for another app on this PC,"
+8. Hover over "Open with," > Click "Choose another app," > Scroll and click "More Apps," > and click "Look for another app on this PC,"
 9. Go to the unzipped 7-ZipPortable folder and select 7-ZipPortable.exe inside the folder,
 10. Click on the folder and click "Extract."
 11. Set the folder download destination and click OK,
@@ -25,23 +25,23 @@ If your administrator blocks the 'github.io' domain for "Security - Domain Shari
 13. Enjoy your unblocked entertainment while it lasts!
 
 ## FAQ
-- *Are you associated with Bradnails?*
+- *Are you associated with Bradnails or any other unblocked game repository?*
 
-No, but I took inspiration to take the unblocked games repository.
+No, but I took inspiration from them. ^^
 
-- *How do I install my games?*
+- *Where and how do I install the game(s)?*
 
-Refer to the "Installation for .RAR files" section of this README.md file.
+You can find them inside the repository on <a href="https://sdstatt.github.io/untitled_website/">the website</a> or the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">unblocked repo_list.MD file on this github repo</a> and click the links to download them from there. To unzip .RAR or .7z files, refer to the "Installation for .RAR files" section of this README.md file.
 
 - *How do I uninstall my games?*
 
-Delete the folder, delete the associated game data folder in your Documents folder, and clear your Recycle bin.
+Delete the game folder wherever you have it, delete the associated game data folder in your Documents folder (if not, check where it is stored), and clear your Recycle bin.
 
 - *How can I not get caught?*
 
 Here are the 3 ways of not getting caught while playing games:
-1. *Creating a Separate Desktop:*  <code>Alt+Win</code>, Create a separate desktop and drag your game window into there.
-2. *Minimizing your Game Window:* On your window, press the first button that hovered should say "Minimize."
+1. *Creating a Separate Desktop:*  <code>Alt+Win</code>, create a separate desktop and drag your game window into it.
+2. *Minimizing your Game Window:* On your window, the first button to the right that looks like a bar is the Minimize button. It will hide the window until you unminimize it from the taskbar or <code>Alt+Tab</code> back into it.
 3. *Switching tabs:* Press <code>Alt+Tab</code> to quickly switch tabs.
 
-If you follow these, I can assure you that you will be safe. Make sure that when a teacher isn't nearby that you can be safer.
+If you follow these, I can assure you that you will be safe. Make sure that when a teacher isn't nearby, you can be safer and sneaky.
