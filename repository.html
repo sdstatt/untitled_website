@@ -95,8 +95,11 @@
 <footer>
 <pre>
 UNTITLED WEBSITE
-Created by sdstatt, 2022-2024.
+Created by sdstatt, 2022-<span id="year"></span>.
 </pre>
+<script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+</script>
 </footer>
 
 <audio id="enter" preload="auto" src="assets/sound/enter.mp3" crossorigin="anonymous"></audio>
