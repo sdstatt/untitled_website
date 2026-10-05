@@ -60,8 +60,11 @@ pointer-events: none;}
 <footer>
 <pre>
 UNTITLED WEBSITE
-Created by Sebastian Statt, 2022-2024.
+Created by sdstatt, 2022-<span id="year"></span>.
 </pre>
+<script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+</script>
 </footer>
 
 <audio controls autoplay hidden>
