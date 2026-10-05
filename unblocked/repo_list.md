@@ -23,13 +23,9 @@ To unzip .RAR files, <a href="https://drive.google.com/file/d/1vfAsi2vTmH_JmxXsO
 | RAZE - Build Engine/Duke Nukem Source Port | 808 mb | Google Drive | <a href="https://drive.google.com/file/d/1XUDkaALXTiMpKJUEni-L3eZU53hpVfVV/view?usp=drive_link">click here to download</a> |
 | PacMan Mobile Rewritten for PC | 38 mb | Google Drive | <a href="https://drive.google.com/file/d/1xfZLUrwgVIcwpbsiZb_3HC6apmyHyKi8/view?usp=drive_link">click here to download</a> |
 | PacMan PLUS Mobile Rewritten for PC | 31 mb | Google Drive | <a href="https://drive.google.com/file/d/1FFgOhp2AR9Foj5tCC4lcYf9SmDvDfIxi/view?usp=drive_link">click here to download</a> |
-
-- <a href="https://drive.google.com/file/d/1xfZLUrwgVIcwpbsiZb_3HC6apmyHyKi8/view?usp=drive_link">Pacman Mobile Rewritten (PC)</a>
-- <a href="https://drive.google.com/file/d/1FFgOhp2AR9Foj5tCC4lcYf9SmDvDfIxi/view?usp=drive_link">Pacman PLUS Mobile Rewritten (PC)</a>
-- <a href="https://drive.google.com/file/d/1IqXGz9TopT2r-HYLawduUJ6Z-5akUqsH/view?usp=drive_link">Friday Night Funkin' (Pico Mix Update)</a> 
-(UPDATED!)
-- <a href="https://drive.google.com/file/d/1NSGJ96ajEUv6nB0IgZ0fvzGkZT3q8a3I/view?usp=sharing">Eaglercraft (Minecraft HTML5)</a>
-- <a href="https://drive.google.com/file/d/1Y83NFF_E_vwlTakSyK7w7g_Gx1WzySAC/view?usp=sharing">Super Mario Bros. Remastered</a>
+| Friday Night Funkin' - Pico Mix Update | 735 mb | Google Drive | <a href="https://drive.google.com/file/d/1IqXGz9TopT2r-HYLawduUJ6Z-5akUqsH/view?usp=drive_link">click here to download</a> |
+| Eaglercraft - Minecraft HTML5 | 10 mb | Google Drive | <a href="https://drive.google.com/file/d/1NSGJ96ajEUv6nB0IgZ0fvzGkZT3q8a3I/view?usp=sharing">click here to download</a> |
+| Super Mario Bros. Remastered - original ROM included! | 57.8 mb | Google Drive | <a href="https://drive.google.com/file/d/1Y83NFF_E_vwlTakSyK7w7g_Gx1WzySAC/view?usp=sharing">click here to download</a> |
 
 
 
