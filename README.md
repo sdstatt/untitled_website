@@ -7,7 +7,7 @@ An "updative" unblocked games archive for people with very restrictive internet 
 If your administrator blocks the 'github.io' domain for "Security - Domain Sharing" or anything else, then go to the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md"> unblocked repo_list.MD file on the github repo<a>.
 
 ## Links
-<a href="https://sdstatt.github.io/untitled_website/">Click here to view the website</a>
+<a href="https://sdstatt.github.io/untitled_website/">Website Link</a>
 
 ## Installation for .RAR files
 1. Go to the repository webpage (if blocked, check the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">unblocked repo_list.MD file on the github repo</a>).
