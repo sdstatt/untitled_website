@@ -21,13 +21,13 @@ If your administrator blocks the 'github.io' domain for "Security - Domain Shari
 9. Go to the unzipped 7-ZipPortable folder and select 7-ZipPortable.exe inside the folder,
 10. Click on the folder and click "Extract."
 11. Set the folder download destination and click OK,
-12. Your downloaded and unzipped game should be in the game folder you downloaded to. <code>C:/Users/[username]/Downloads/[gamefolderhere]</code>
+12. Your downloaded and unzipped game should be in the game folder you downloaded to. <code>C:/Users/[USERNAME]/[DOWNLOADS or WHEREVER YOU PUT IT]/[GAME FOLDER HERE]</code>
 13. Enjoy your unblocked entertainment while it lasts!
 
 ## FAQ
 - *Are you associated with Bradnails or any other unblocked game repository?*
 
-No, but I took inspiration from them. ^^
+No, but I took inspiration from them.
 
 - *Where and how do I install the game(s)?*
 
@@ -35,13 +35,13 @@ You can find them inside the repository on <a href="https://sdstatt.github.io/un
 
 - *How do I uninstall my games?*
 
-Delete the game folder wherever you have it, delete the associated game data folder in your Documents folder (if not, check where it is stored), and clear your Recycle bin.
+Delete the game folder wherever you have it, delete the associated game data folder in your Documents folder (if not, check where it is stored, probably in %appdata%), and clear your Recycle Bin.
 
 - *How can I not get caught?*
 
-Here are the 3 ways of not getting caught while playing games:
-1. *Creating a Separate Desktop:*  <code>Alt+Win</code>, create a separate desktop and drag your game window into it.
+Here are the 3 ways to not get caught while playing games:
+1. *Creating a Separate Desktop:*  <code>Alt+Win</code>, create a separate desktop and drag your game window into it. This makes it so that on your regular desktop you don't have the game window open, but on a separate desktop you do.
 2. *Minimizing your Game Window:* On your window, the first button to the right that looks like a bar is the Minimize button. It will hide the window until you unminimize it from the taskbar or <code>Alt+Tab</code> back into it.
 3. *Switching tabs:* Press <code>Alt+Tab</code> to quickly switch tabs.
 
-If you follow these, I can assure you that you will be safe. Make sure that when a teacher isn't nearby, you can be safer and sneaky.
+If you follow these, I can assure you that you will be safe. Make sure that when a teacher isn't nearby, you can be safer and sneakier.
