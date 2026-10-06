@@ -25,13 +25,17 @@ If your administrator blocks the 'github.io' domain for "Security - Domain Shari
 13. Enjoy your unblocked entertainment while it lasts!
 
 ## FAQ
+- *Why is this project named "Untitled Website?"*
+
+The reason why this project is named "Untitled Website" is that, well, why not? I mean, you don't have to make an original name for this lol. But seriously, it's so that teachers are less suspicious and assume this website isn't just for entertainment, even though it is.
+
 - *Are you associated with Bradnails or any other unblocked game repository?*
 
-No, but I took inspiration from them.
+No, but I was inspired by their work to make one of my own, and since they haven't updated in a while, I'm doing god's work by (re)adding content that was removed, hasn't been updated, or hasn't been added yet by them.
 
 - *Where and how do I install the game(s)?*
 
-You can find them inside the repository on <a href="https://sdstatt.github.io/untitled_website/">the website</a> or the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">unblocked repo_list.MD file on this github repo</a> and click the links to download them from there. To unzip .RAR or .7z files, refer to the "Installation for .RAR files" section of this README.md file.
+You can find them inside the repository on <a href="https://sdstatt.github.io/untitled_website/">the website</a> or the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">unblocked repo_list.MD file on this github repo</a> and click the links to download them from there. For a full guide on unzipping the <code>.RAR</code> or <code>.7z</code> files so that you can actually play them, refer to the "[Installation for .RAR files](#installation-for-rar-files)" section of this README.md file.
 
 - *How do I uninstall my games?*
 
