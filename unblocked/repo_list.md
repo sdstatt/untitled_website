@@ -26,6 +26,7 @@ To unzip .RAR files, <a href="https://drive.google.com/file/d/1vfAsi2vTmH_JmxXsO
 | Friday Night Funkin' - Pico Mix Update | 735 mb | Google Drive | <a href="https://drive.google.com/file/d/1IqXGz9TopT2r-HYLawduUJ6Z-5akUqsH/view?usp=drive_link">click here to download</a> |
 | Eaglercraft - Minecraft HTML5 | 10 mb | Google Drive | <a href="https://drive.google.com/file/d/1NSGJ96ajEUv6nB0IgZ0fvzGkZT3q8a3I/view?usp=sharing">click here to download</a> |
 | Super Mario Bros. Remastered - original ROM included! | 57.8 mb | Google Drive | <a href="https://drive.google.com/file/d/1Y83NFF_E_vwlTakSyK7w7g_Gx1WzySAC/view?usp=sharing">click here to download</a> |
+| Quakespasm - Quake Source Port | 21.2 mb | Google Drive | <a href="https://drive.google.com/file/d/1y90d5H5ExPuOyyMVOGBypBZYmcYBeuPc/view?usp=sharing">click here to download</a> |
 
 
 
