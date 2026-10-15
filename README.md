@@ -21,7 +21,7 @@ If your administrator blocks the 'github.io' domain for "Security - Domain Shari
 9. Go to the unzipped 7-ZipPortable folder and select 7-ZipPortable.exe inside the folder,
 10. Click on the folder and click "Extract."
 11. Set the folder download destination and click OK,
-12. Your downloaded and unzipped game should be in the game folder you downloaded to. <code>C:/Users/[USERNAME]/[DOWNLOADS or WHEREVER YOU PUT IT]/[GAME FOLDER HERE]</code>
+12. Your downloaded and unzipped game should be in the game folder you downloaded to. (ex: <code>C:/Users/[USERNAME]/Downloads/[GAME FOLDER HERE]</code>)
 13. Enjoy your unblocked entertainment while it lasts!
 
 ## FAQ
