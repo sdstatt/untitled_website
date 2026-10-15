@@ -35,11 +35,11 @@ No, but I was inspired by their work to make one of my own, and since they haven
 
 - *Where and how do I install the game(s)?*
 
-You can find them inside the repository on <a href="https://sdstatt.github.io/untitled_website/">the website</a> or the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">unblocked repo_list.MD file on this github repo</a> and click the links to download them from there. For a full guide on unzipping the <code>.RAR</code> or <code>.7z</code> files so that you can actually play them, refer to the "[Installation for .RAR files](#installation-for-rar-files)" section of this manual.
+You can find them inside the repository on <a href="https://sdstatt.github.io/untitled_website/">the website</a> or the <a href="https://github.com/sdstatt/untitled_website/blob/main/unblocked/repo_list.md">unblocked repo_list.MD file on this GitHub repo</a> and click the links to download them from there. For a full guide on unzipping the <code>.RAR</code> or <code>.7z</code> files so that you can actually play them, refer to the "[Installation for .RAR files](#installation-for-rar-files)" section of this manual.
 
 - *How do I uninstall my games?*
 
-Delete the game folder wherever you have it, delete the associated game data folder in your Documents folder (if not, check where it is stored, probably in %appdata%), and clear your Recycle Bin.
+Delete the game folder wherever you have it, delete the associated game data folder in your Documents folder (if not, check where it is stored, probably in <code>%appdata%</code>), and clear your Recycle Bin.
 
 - *How can I not get caught?*
 
